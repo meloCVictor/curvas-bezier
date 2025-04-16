@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1744753535 source:c:\users\victor-melo\documents\ulbra\computação gráfica\bezier2\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<thread>
+	<chrono>
+	<vector>
+
